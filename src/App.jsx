@@ -39,7 +39,7 @@ import nogif7 from "./assets/GifData/No/RejectNo.gif";
 import nogif8 from "./assets/GifData/No/breakRej7.gif";
 
 //! yes - Music Importing
-import yesmusic1 from "./assets/AudioTracks/Love_LoveMeLikeYouDo.mp3";
+import yesmusic1 from "./assets/AudioTracks/Cairokee Ft. @saramoullablad5231  - Nefsy Ahbek  كايروكي مع سارة مول البلاد - نفسي احبك.mp3";
 import yesmusic2 from "./assets/AudioTracks/Love_EDPerfect.mp3";
 import yesmusic3 from "./assets/AudioTracks/Love_Nadaaniyan.mp3";
 import yesmusic4 from "./assets/AudioTracks/Love_JoTumMereHo.mp3";
