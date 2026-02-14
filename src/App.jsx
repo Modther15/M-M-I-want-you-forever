@@ -247,7 +247,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount < 4 && !popupShown) {
       Swal.fire({
-        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖 But itni pyaari ladki aur itni jaldi haan? Thoda aur nakhre karke mujhe tarpaao na! 🥰✨",
+        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖I hope we can always be together, loving each other more each day than the last, giving each other more and more chances. I don't want anyone but you, and I don't think about anyone but you, I love you koko. 🥰✨",
         showClass: {
           popup: `
             animate__animated
